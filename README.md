@@ -359,33 +359,16 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 Pour toute question ou problème :
 
-- 📧 Email : support@gestion-rh.com
+- 📧 Email : charaadewale@attouco.com
 - 🐛 Issues : [GitHub Issues](https://github.com/servicedevfac/app_grh/issues)
 - 📖 Documentation : Consultez `public/assets/css/structure.txt`
 
 ---
 
-## 🎯 Roadmap
 
-- [ ] Interface utilisateur améliorée
-- [ ] API REST complète
-- [ ] Application mobile
-- [ ] Dashboard analytique avancée
-- [ ] Intégration avec systèmes de paie externes
-- [ ] Gestion multi-langues
-- [ ] Dark mode
-
----
 
 **Dernière mise à jour** : 14 janvier 2026
 
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
