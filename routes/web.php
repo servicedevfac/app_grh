@@ -16,6 +16,7 @@ use App\Http\Controllers\ContratController;
 use App\Http\Controllers\BulletinController;
 use App\Http\Controllers\EmployeSpaceController;
 use App\Http\Controllers\BadgeController;
+use App\Http\Controllers\RecrutementController;
 
 
 // =============================
@@ -272,3 +273,17 @@ Route::middleware(['auth'])->group(function () {
     ->name('badge.pdf');
 
 });
+
+
+// =============================
+    // RECRUTEMENT
+// =============================
+
+Route::resource('recrutements', RecrutementController::class)->names([
+    'index'   => 'recrutement.liste',
+    'create'  => 'recrutement.create',
+    'store'   => 'recrutement.store',
+    'show'    => 'recrutement.show',
+    'edit'    => 'recrutement.edit',
+    'update'  => 'recrutement.update',
+]);

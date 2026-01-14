@@ -1,4 +1,4 @@
-<li class="side-nav-item">
+    <li class="side-nav-item">
     <a data-bs-toggle="collapse" href="#adminUsers" class="side-nav-link">
         <i class="ri-group-2-line"></i>
         <span> Utilisateurs </span>
